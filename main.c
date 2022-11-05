@@ -18,6 +18,7 @@ int main(void)
 //			}
 		printf("TEST+OK\r\n");
 		delay_ms(500);
+//°æ±¾2
 	}	 
  }
 

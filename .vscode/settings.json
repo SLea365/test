@@ -1,0 +1,8 @@
+{
+    "files.defaultLanguage": "files.autoGuessEncoding\": true",
+    "files.associations": {
+        "delay.h": "c",
+        "usart.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
